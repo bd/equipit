@@ -7,3 +7,7 @@ standard-app-packages
 autopublish
 insecure
 preserve-inputs
+coffeescript
+underscore
+less
+bootstrap3-less
